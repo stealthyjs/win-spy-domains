@@ -1,0 +1,13 @@
+# Block Windows Spying Domains
+# Date: 2023-09-20
+# ============================================================
+
+data.microsoft.com
+ msftconnecttest.com
+activity.windows.com
+bingapis.com
+msedge.net
+assets.msn.com
+scorecardresearch.com
+edge.microsoft.com
+data.msn.com
